@@ -1,0 +1,25 @@
+﻿<ComboBox x:Class="BoardControls.ThicknessComboBox"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="30" d:DesignWidth="200"
+             Style="{StaticResource {x:Static ToolBar.ComboBoxStyleKey}}"
+             MinWidth="40">
+    
+    <ComboBox.ItemTemplate>
+        <DataTemplate>
+            <Grid Margin ="0 0 5 0" 
+                  Width="{Binding ActualWidth, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type ComboBox}}}">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="15"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Text="{Binding}" FontWeight="Bold"/>
+                <Rectangle Grid.Column="1" Fill="Black" Height="{Binding}" SnapsToDevicePixels="True"/>
+            </Grid>
+        </DataTemplate>
+    </ComboBox.ItemTemplate>
+    
+</ComboBox>

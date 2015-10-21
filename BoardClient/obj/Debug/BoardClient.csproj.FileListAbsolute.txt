@@ -1,0 +1,115 @@
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardClient\bin\Debug\BoardClient.exe
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardClient\bin\Debug\BoardClient.pdb
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardClient\bin\Debug\BoardControls.dll
+D:\My itStep\_NET\_Board\Editor\BoardClient\bin\Debug\BoardClient.exe.config
+D:\My itStep\_NET\_Board\Editor\BoardClient\bin\Debug\BoardClient.exe
+D:\My itStep\_NET\_Board\Editor\BoardClient\bin\Debug\BoardClient.pdb
+D:\My itStep\_NET\_Board\Editor\BoardClient\bin\Debug\BoardControls.dll
+D:\My itStep\_NET\_Board\Editor\BoardClient\bin\Debug\BoardControls.pdb
+D:\My itStep\_NET\_Board\Editor\BoardClient\obj\Debug\Client.baml
+D:\My itStep\_NET\_Board\Editor\BoardClient\obj\Debug\Client.g.cs
+D:\My itStep\_NET\_Board\Editor\BoardClient\obj\Debug\App.g.cs
+D:\My itStep\_NET\_Board\Editor\BoardClient\obj\Debug\BoardClient_MarkupCompile.cache
+D:\My itStep\_NET\_Board\Editor\BoardClient\obj\Debug\BoardClient.g.resources
+D:\My itStep\_NET\_Board\Editor\BoardClient\obj\Debug\BoardClient.Properties.Resources.resources
+D:\My itStep\_NET\_Board\Editor\BoardClient\obj\Debug\BoardClient.csproj.GenerateResource.Cache
+D:\My itStep\_NET\_Board\Editor\BoardClient\obj\Debug\BoardClient.exe
+D:\My itStep\_NET\_Board\Editor\BoardClient\obj\Debug\BoardClient.pdb
+D:\My itStep\_NET\_Board\Editor\BoardClient\obj\Debug\SettingWindow.baml
+D:\My itStep\_NET\_Board\Editor\BoardClient\obj\Debug\SettingWindow.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardClient\bin\Debug\BoardClient.exe.config
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardClient\bin\Debug\BoardControls.pdb
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardClient\obj\Debug\Client.baml
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardClient\obj\Debug\SettingWindow.baml
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardClient\obj\Debug\Client.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardClient\obj\Debug\SettingWindow.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardClient\obj\Debug\App.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardClient\obj\Debug\BoardClient_MarkupCompile.cache
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardClient\obj\Debug\BoardClient.g.resources
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardClient\obj\Debug\BoardClient.Properties.Resources.resources
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardClient\obj\Debug\BoardClient.csproj.GenerateResource.Cache
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardClient\obj\Debug\BoardClient.exe
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardClient\obj\Debug\BoardClient.pdb
+C:\DrN\_Board\Editor\BoardClient\bin\Debug\BoardClient.exe.config
+C:\DrN\_Board\Editor\BoardClient\obj\Debug\BoardClient.exe
+C:\DrN\_Board\Editor\BoardClient\obj\Debug\BoardClient.pdb
+C:\DrN\_Board\Editor\BoardClient\bin\Debug\BoardClient.exe
+C:\DrN\_Board\Editor\BoardClient\bin\Debug\BoardClient.pdb
+C:\DrN\_Board\Editor\BoardClient\bin\Debug\BoardControls.dll
+C:\DrN\_Board\Editor\BoardClient\bin\Debug\BoardControls.pdb
+C:\DrN\_Board\Editor\BoardClient\obj\Debug\BoardClient.csprojResolveAssemblyReference.cache
+C:\DrN\_Board\Editor\BoardClient\obj\Debug\Client.baml
+C:\DrN\_Board\Editor\BoardClient\obj\Debug\SettingWindow.baml
+C:\DrN\_Board\Editor\BoardClient\obj\Debug\Client.g.cs
+C:\DrN\_Board\Editor\BoardClient\obj\Debug\SettingWindow.g.cs
+C:\DrN\_Board\Editor\BoardClient\obj\Debug\App.g.cs
+C:\DrN\_Board\Editor\BoardClient\obj\Debug\BoardClient_MarkupCompile.cache
+C:\DrN\_Board\Editor\BoardClient\obj\Debug\BoardClient.g.resources
+C:\DrN\_Board\Editor\BoardClient\obj\Debug\BoardClient.Properties.Resources.resources
+C:\DrN\_Board\Editor\BoardClient\obj\Debug\BoardClient.csproj.GenerateResource.Cache
+D:\My itStep\_NET\_Board\Editor\BoardClient\obj\Debug\BoardClient.csprojResolveAssemblyReference.cache
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardClient\obj\Debug\BoardClient.csprojResolveAssemblyReference.cache
+D:\My itStep\_NET\_Board\Editor\BoardClient\bin\Debug\WindowResizer.dll
+D:\My itStep\_NET\_Board\Editor\BoardClient\obj\Debug\BoardClient_Content.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardClient\bin\Debug\WindowResizer.dll
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardClient\obj\Debug\BoardClient_Content.g.cs
+d:\My itStep\_NET\_Board(TB)\Editor\BoardClient\bin\Debug\BoardClient.exe.config
+d:\My itStep\_NET\_Board(TB)\Editor\BoardClient\bin\Debug\BoardClient.exe
+d:\My itStep\_NET\_Board(TB)\Editor\BoardClient\bin\Debug\BoardClient.pdb
+d:\My itStep\_NET\_Board(TB)\Editor\BoardClient\bin\Debug\BoardControls.dll
+d:\My itStep\_NET\_Board(TB)\Editor\BoardClient\bin\Debug\WindowResizer.dll
+d:\My itStep\_NET\_Board(TB)\Editor\BoardClient\bin\Debug\BoardControls.pdb
+d:\My itStep\_NET\_Board(TB)\Editor\BoardClient\obj\Debug\BoardClient.csprojResolveAssemblyReference.cache
+d:\My itStep\_NET\_Board(TB)\Editor\BoardClient\obj\Debug\Client.baml
+d:\My itStep\_NET\_Board(TB)\Editor\BoardClient\obj\Debug\SettingWindow.baml
+d:\My itStep\_NET\_Board(TB)\Editor\BoardClient\obj\Debug\Client.g.cs
+d:\My itStep\_NET\_Board(TB)\Editor\BoardClient\obj\Debug\SettingWindow.g.cs
+d:\My itStep\_NET\_Board(TB)\Editor\BoardClient\obj\Debug\App.g.cs
+d:\My itStep\_NET\_Board(TB)\Editor\BoardClient\obj\Debug\BoardClient_Content.g.cs
+d:\My itStep\_NET\_Board(TB)\Editor\BoardClient\obj\Debug\BoardClient_MarkupCompile.cache
+d:\My itStep\_NET\_Board(TB)\Editor\BoardClient\obj\Debug\BoardClient.g.resources
+d:\My itStep\_NET\_Board(TB)\Editor\BoardClient\obj\Debug\BoardClient.Properties.Resources.resources
+d:\My itStep\_NET\_Board(TB)\Editor\BoardClient\obj\Debug\BoardClient.csproj.GenerateResource.Cache
+d:\My itStep\_NET\_Board(TB)\Editor\BoardClient\obj\Debug\BoardClient.exe
+d:\My itStep\_NET\_Board(TB)\Editor\BoardClient\obj\Debug\BoardClient.pdb
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardClient\bin\Debug\BoardClient.exe.config
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardClient\bin\Debug\BoardClient.exe
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardClient\bin\Debug\BoardClient.pdb
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardClient\bin\Debug\BoardControls.dll
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardClient\bin\Debug\WindowResizer.dll
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardClient\bin\Debug\BoardControls.pdb
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardClient\obj\Debug\BoardClient.csprojResolveAssemblyReference.cache
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardClient\obj\Debug\Client.baml
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardClient\obj\Debug\SettingWindow.baml
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardClient\obj\Debug\Client.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardClient\obj\Debug\SettingWindow.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardClient\obj\Debug\App.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardClient\obj\Debug\BoardClient_Content.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardClient\obj\Debug\BoardClient_MarkupCompile.cache
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardClient\obj\Debug\BoardClient.g.resources
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardClient\obj\Debug\BoardClient.Properties.Resources.resources
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardClient\obj\Debug\BoardClient.csproj.GenerateResource.Cache
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardClient\obj\Debug\BoardClient.exe
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardClient\obj\Debug\BoardClient.pdb
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardClient\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\My itStep\_NET\_Board(TB)\Editor\BoardClient\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardClient\bin\Debug\BoardClient.exe.config
+D:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardClient\obj\Debug\BoardClient.exe
+D:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardClient\obj\Debug\BoardClient.pdb
+d:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardClient\bin\Debug\BoardClient.exe
+d:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardClient\bin\Debug\BoardClient.pdb
+d:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardClient\bin\Debug\BoardControls.dll
+d:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardClient\bin\Debug\WindowResizer.dll
+d:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardClient\bin\Debug\Xceed.Wpf.Toolkit.dll
+d:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardClient\bin\Debug\BoardControls.pdb
+d:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardClient\obj\Debug\BoardClient.csprojResolveAssemblyReference.cache
+d:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardClient\obj\Debug\Client.baml
+d:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardClient\obj\Debug\SettingWindow.baml
+d:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardClient\obj\Debug\Client.g.cs
+d:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardClient\obj\Debug\SettingWindow.g.cs
+d:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardClient\obj\Debug\App.g.cs
+d:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardClient\obj\Debug\BoardClient_Content.g.cs
+d:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardClient\obj\Debug\BoardClient_MarkupCompile.cache
+d:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardClient\obj\Debug\BoardClient.g.resources
+d:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardClient\obj\Debug\BoardClient.Properties.Resources.resources
+d:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardClient\obj\Debug\BoardClient.csproj.GenerateResource.Cache

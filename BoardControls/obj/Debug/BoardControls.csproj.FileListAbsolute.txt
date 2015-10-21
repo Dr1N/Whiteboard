@@ -1,0 +1,70 @@
+D:\My itStep\_NET\_Board\Editor\BoardControls\bin\Debug\BoardControls.dll
+D:\My itStep\_NET\_Board\Editor\BoardControls\bin\Debug\BoardControls.pdb
+D:\My itStep\_NET\_Board\Editor\BoardControls\obj\Debug\FontComboBox.baml
+D:\My itStep\_NET\_Board\Editor\BoardControls\obj\Debug\ThicknessComboBox.baml
+D:\My itStep\_NET\_Board\Editor\BoardControls\obj\Debug\BrushComboBox.g.cs
+D:\My itStep\_NET\_Board\Editor\BoardControls\obj\Debug\DashComboBox.g.cs
+D:\My itStep\_NET\_Board\Editor\BoardControls\obj\Debug\FontComboBox.g.cs
+D:\My itStep\_NET\_Board\Editor\BoardControls\obj\Debug\ThicknessComboBox.g.cs
+D:\My itStep\_NET\_Board\Editor\BoardControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\My itStep\_NET\_Board\Editor\BoardControls\obj\Debug\BoardControls_MarkupCompile.cache
+D:\My itStep\_NET\_Board\Editor\BoardControls\obj\Debug\BoardControls_MarkupCompile.lref
+D:\My itStep\_NET\_Board\Editor\BoardControls\obj\Debug\BrushComboBox.baml
+D:\My itStep\_NET\_Board\Editor\BoardControls\obj\Debug\DashComboBox.baml
+D:\My itStep\_NET\_Board\Editor\BoardControls\obj\Debug\BoardControls.g.resources
+D:\My itStep\_NET\_Board\Editor\BoardControls\obj\Debug\BoardControls.dll
+D:\My itStep\_NET\_Board\Editor\BoardControls\obj\Debug\BoardControls.pdb
+D:\My itStep\_NET\_Board\Editor\BoardControls\obj\Debug\BoardControls.csprojResolveAssemblyReference.cache
+C:\DrN\_Board\Editor\BoardControls\bin\Debug\BoardControls.dll
+C:\DrN\_Board\Editor\BoardControls\bin\Debug\BoardControls.pdb
+C:\DrN\_Board\Editor\BoardControls\obj\Debug\FontComboBox.baml
+C:\DrN\_Board\Editor\BoardControls\obj\Debug\ThicknessComboBox.baml
+C:\DrN\_Board\Editor\BoardControls\obj\Debug\BrushComboBox.g.cs
+C:\DrN\_Board\Editor\BoardControls\obj\Debug\DashComboBox.g.cs
+C:\DrN\_Board\Editor\BoardControls\obj\Debug\FontComboBox.g.cs
+C:\DrN\_Board\Editor\BoardControls\obj\Debug\ThicknessComboBox.g.cs
+C:\DrN\_Board\Editor\BoardControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\DrN\_Board\Editor\BoardControls\obj\Debug\BoardControls_MarkupCompile.cache
+C:\DrN\_Board\Editor\BoardControls\obj\Debug\BoardControls_MarkupCompile.lref
+C:\DrN\_Board\Editor\BoardControls\obj\Debug\BrushComboBox.baml
+C:\DrN\_Board\Editor\BoardControls\obj\Debug\DashComboBox.baml
+C:\DrN\_Board\Editor\BoardControls\obj\Debug\BoardControls.g.resources
+C:\DrN\_Board\Editor\BoardControls\obj\Debug\BoardControls.dll
+C:\DrN\_Board\Editor\BoardControls\obj\Debug\BoardControls.pdb
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardControls\bin\Debug\BoardControls.dll
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardControls\bin\Debug\BoardControls.pdb
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardControls\obj\Debug\BoardControls.csprojResolveAssemblyReference.cache
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardControls\obj\Debug\FontComboBox.baml
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardControls\obj\Debug\ThicknessComboBox.baml
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardControls\obj\Debug\BrushComboBox.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardControls\obj\Debug\DashComboBox.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardControls\obj\Debug\FontComboBox.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardControls\obj\Debug\ThicknessComboBox.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardControls\obj\Debug\BoardControls_MarkupCompile.cache
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardControls\obj\Debug\BoardControls_MarkupCompile.lref
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardControls\obj\Debug\BrushComboBox.baml
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardControls\obj\Debug\DashComboBox.baml
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardControls\obj\Debug\BoardControls.g.resources
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardControls\obj\Debug\BoardControls.dll
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardControls\obj\Debug\BoardControls.pdb
+D:\My itStep\_NET\_Board\Editor\BoardControls\obj\Debug\About.baml
+D:\My itStep\_NET\_Board\Editor\BoardControls\obj\Debug\About.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardControls\bin\Debug\BoardControls.dll
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardControls\bin\Debug\BoardControls.pdb
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardControls\obj\Debug\About.baml
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardControls\obj\Debug\FontComboBox.baml
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardControls\obj\Debug\ThicknessComboBox.baml
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardControls\obj\Debug\About.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardControls\obj\Debug\BrushComboBox.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardControls\obj\Debug\DashComboBox.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardControls\obj\Debug\FontComboBox.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardControls\obj\Debug\ThicknessComboBox.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardControls\obj\Debug\BoardControls_MarkupCompile.cache
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardControls\obj\Debug\BoardControls_MarkupCompile.lref
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardControls\obj\Debug\BrushComboBox.baml
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardControls\obj\Debug\DashComboBox.baml
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardControls\obj\Debug\BoardControls.g.resources
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardControls\obj\Debug\BoardControls.dll
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardControls\obj\Debug\BoardControls.pdb

@@ -1,0 +1,30 @@
+﻿<UserControl x:Class="BoardControls.BrushComboBox"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+			 xmlns:local="clr-namespace:BoardControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="100" d:DesignWidth="100">
+    
+    <UserControl.Resources>
+        <local:StrokeConverter x:Key="StrokeConverter"/>
+    </UserControl.Resources>
+    
+    <ComboBox Name="cbColor"
+              Style="{StaticResource {x:Static ToolBar.ComboBoxStyleKey}}" MinWidth="35"
+              DropDownClosed="cbColor_DropDownClosed">
+		<ComboBox.ItemsPanel>
+			<ItemsPanelTemplate>
+				<UniformGrid/>
+			</ItemsPanelTemplate>
+		</ComboBox.ItemsPanel>
+		<ComboBox.ItemTemplate>
+			<DataTemplate DataType="{x:Type SolidColorBrush}">
+				<Rectangle Width="18" Height="{Binding RelativeSource={RelativeSource Mode=Self}, Path=Width}" Margin="1" 
+                           Fill="{Binding}" Stroke="{Binding Converter={StaticResource ResourceKey=StrokeConverter}}"/>
+			</DataTemplate>
+		</ComboBox.ItemTemplate>
+	</ComboBox>
+    
+</UserControl>

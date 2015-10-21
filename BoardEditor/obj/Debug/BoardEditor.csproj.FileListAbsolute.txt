@@ -1,0 +1,139 @@
+F:\itStep\_NET\_Board\Editor\BoardEditor\bin\Debug\BoardEditor.exe.config
+F:\itStep\_NET\_Board\Editor\BoardEditor\obj\Debug\BoardEditor.exe
+F:\itStep\_NET\_Board\Editor\BoardEditor\obj\Debug\BoardEditor.pdb
+F:\itStep\_NET\_Board\Editor\BoardEditor\bin\Debug\BoardEditor.exe
+F:\itStep\_NET\_Board\Editor\BoardEditor\bin\Debug\BoardEditor.pdb
+F:\itStep\_NET\_Board\Editor\BoardEditor\obj\Debug\BoardEditor.csprojResolveAssemblyReference.cache
+F:\itStep\_NET\_Board\Editor\BoardEditor\obj\Debug\MainWindow.g.cs
+F:\itStep\_NET\_Board\Editor\BoardEditor\obj\Debug\App.g.cs
+F:\itStep\_NET\_Board\Editor\BoardEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\itStep\_NET\_Board\Editor\BoardEditor\obj\Debug\BoardEditor_MarkupCompile.cache
+F:\itStep\_NET\_Board\Editor\BoardEditor\obj\Debug\BoardEditor_MarkupCompile.lref
+F:\itStep\_NET\_Board\Editor\BoardEditor\obj\Debug\MainWindow.baml
+F:\itStep\_NET\_Board\Editor\BoardEditor\obj\Debug\BoardEditor.g.resources
+F:\itStep\_NET\_Board\Editor\BoardEditor\obj\Debug\BoardEditor.Properties.Resources.resources
+F:\itStep\_NET\_Board\Editor\BoardEditor\obj\Debug\BoardEditor.csproj.GenerateResource.Cache
+C:\DrN\_Board\Editor\BoardEditor\bin\Debug\BoardEditor.exe.config
+C:\DrN\_Board\Editor\BoardEditor\obj\Debug\BoardEditor.exe
+C:\DrN\_Board\Editor\BoardEditor\bin\Debug\BoardEditor.exe
+C:\DrN\_Board\Editor\BoardEditor\bin\Debug\BoardEditor.pdb
+C:\DrN\_Board\Editor\BoardEditor\bin\Debug\BoardControls.dll
+C:\DrN\_Board\Editor\BoardEditor\bin\Debug\ColorFont.dll
+C:\DrN\_Board\Editor\BoardEditor\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\DrN\_Board\Editor\BoardEditor\bin\Debug\BoardControls.pdb
+C:\DrN\_Board\Editor\BoardEditor\obj\Debug\BoardEditor.csprojResolveAssemblyReference.cache
+C:\DrN\_Board\Editor\BoardEditor\obj\Debug\Editor.baml
+C:\DrN\_Board\Editor\BoardEditor\obj\Debug\SettingWindow.baml
+C:\DrN\_Board\Editor\BoardEditor\obj\Debug\Editor.g.cs
+C:\DrN\_Board\Editor\BoardEditor\obj\Debug\SettingWindow.g.cs
+C:\DrN\_Board\Editor\BoardEditor\obj\Debug\App.g.cs
+C:\DrN\_Board\Editor\BoardEditor\obj\Debug\BoardEditor_Content.g.cs
+C:\DrN\_Board\Editor\BoardEditor\obj\Debug\BoardEditor_MarkupCompile.cache
+C:\DrN\_Board\Editor\BoardEditor\obj\Debug\BoardEditor.g.resources
+C:\DrN\_Board\Editor\BoardEditor\obj\Debug\BoardEditor.Properties.Resources.resources
+C:\DrN\_Board\Editor\BoardEditor\obj\Debug\BoardEditor.csproj.GenerateResource.Cache
+C:\DrN\_Board\Editor\BoardEditor\obj\Debug\BoardEditor.pdb
+D:\My itStep\_NET\_Board\Editor\BoardEditor\bin\Debug\BoardEditor.exe.config
+D:\My itStep\_NET\_Board\Editor\BoardEditor\bin\Debug\BoardEditor.exe
+D:\My itStep\_NET\_Board\Editor\BoardEditor\bin\Debug\BoardEditor.pdb
+D:\My itStep\_NET\_Board\Editor\BoardEditor\bin\Debug\BoardControls.dll
+D:\My itStep\_NET\_Board\Editor\BoardEditor\bin\Debug\ColorFont.dll
+D:\My itStep\_NET\_Board\Editor\BoardEditor\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\My itStep\_NET\_Board\Editor\BoardEditor\bin\Debug\BoardControls.pdb
+D:\My itStep\_NET\_Board\Editor\BoardEditor\obj\Debug\BoardEditor.csprojResolveAssemblyReference.cache
+D:\My itStep\_NET\_Board\Editor\BoardEditor\obj\Debug\Editor.baml
+D:\My itStep\_NET\_Board\Editor\BoardEditor\obj\Debug\SettingWindow.baml
+D:\My itStep\_NET\_Board\Editor\BoardEditor\obj\Debug\Editor.g.cs
+D:\My itStep\_NET\_Board\Editor\BoardEditor\obj\Debug\SettingWindow.g.cs
+D:\My itStep\_NET\_Board\Editor\BoardEditor\obj\Debug\App.g.cs
+D:\My itStep\_NET\_Board\Editor\BoardEditor\obj\Debug\BoardEditor_Content.g.cs
+D:\My itStep\_NET\_Board\Editor\BoardEditor\obj\Debug\BoardEditor_MarkupCompile.cache
+D:\My itStep\_NET\_Board\Editor\BoardEditor\obj\Debug\BoardEditor.g.resources
+D:\My itStep\_NET\_Board\Editor\BoardEditor\obj\Debug\BoardEditor.Properties.Resources.resources
+D:\My itStep\_NET\_Board\Editor\BoardEditor\obj\Debug\BoardEditor.csproj.GenerateResource.Cache
+D:\My itStep\_NET\_Board\Editor\BoardEditor\obj\Debug\BoardEditor.exe
+D:\My itStep\_NET\_Board\Editor\BoardEditor\obj\Debug\BoardEditor.pdb
+D:\My itStep\_NET\_Board\Editor\BoardEditor\obj\Debug\BoardEditor_MarkupCompile.lref
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardEditor\bin\Debug\BoardEditor.exe.config
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardEditor\bin\Debug\BoardEditor.exe
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardEditor\bin\Debug\BoardEditor.pdb
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardEditor\bin\Debug\BoardControls.dll
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardEditor\bin\Debug\ColorFont.dll
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardEditor\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardEditor\bin\Debug\BoardControls.pdb
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardEditor\obj\Debug\SettingWindow.baml
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardEditor\obj\Debug\Editor.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardEditor\obj\Debug\SettingWindow.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardEditor\obj\Debug\App.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardEditor\obj\Debug\BoardEditor_Content.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardEditor\obj\Debug\BoardEditor_MarkupCompile.cache
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardEditor\obj\Debug\BoardEditor_MarkupCompile.lref
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardEditor\obj\Debug\Editor.baml
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardEditor\obj\Debug\BoardEditor.g.resources
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardEditor\obj\Debug\BoardEditor.Properties.Resources.resources
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardEditor\obj\Debug\BoardEditor.csproj.GenerateResource.Cache
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardEditor\obj\Debug\BoardEditor.exe
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardEditor\obj\Debug\BoardEditor.pdb
+d:\My itStep\_NET\_Board(TB)\Editor\BoardEditor\bin\Debug\BoardEditor.exe.config
+d:\My itStep\_NET\_Board(TB)\Editor\BoardEditor\bin\Debug\BoardEditor.exe
+d:\My itStep\_NET\_Board(TB)\Editor\BoardEditor\bin\Debug\BoardEditor.pdb
+d:\My itStep\_NET\_Board(TB)\Editor\BoardEditor\bin\Debug\BoardControls.dll
+d:\My itStep\_NET\_Board(TB)\Editor\BoardEditor\bin\Debug\ColorFont.dll
+d:\My itStep\_NET\_Board(TB)\Editor\BoardEditor\bin\Debug\Xceed.Wpf.Toolkit.dll
+d:\My itStep\_NET\_Board(TB)\Editor\BoardEditor\bin\Debug\BoardControls.pdb
+d:\My itStep\_NET\_Board(TB)\Editor\BoardEditor\obj\Debug\SettingWindow.baml
+d:\My itStep\_NET\_Board(TB)\Editor\BoardEditor\obj\Debug\Editor.g.cs
+d:\My itStep\_NET\_Board(TB)\Editor\BoardEditor\obj\Debug\SettingWindow.g.cs
+d:\My itStep\_NET\_Board(TB)\Editor\BoardEditor\obj\Debug\App.g.cs
+d:\My itStep\_NET\_Board(TB)\Editor\BoardEditor\obj\Debug\BoardEditor_Content.g.cs
+d:\My itStep\_NET\_Board(TB)\Editor\BoardEditor\obj\Debug\BoardEditor_MarkupCompile.cache
+d:\My itStep\_NET\_Board(TB)\Editor\BoardEditor\obj\Debug\BoardEditor_MarkupCompile.lref
+d:\My itStep\_NET\_Board(TB)\Editor\BoardEditor\obj\Debug\Editor.baml
+d:\My itStep\_NET\_Board(TB)\Editor\BoardEditor\obj\Debug\BoardEditor.g.resources
+d:\My itStep\_NET\_Board(TB)\Editor\BoardEditor\obj\Debug\BoardEditor.Properties.Resources.resources
+d:\My itStep\_NET\_Board(TB)\Editor\BoardEditor\obj\Debug\BoardEditor.csproj.GenerateResource.Cache
+d:\My itStep\_NET\_Board(TB)\Editor\BoardEditor\obj\Debug\BoardEditor.exe
+d:\My itStep\_NET\_Board(TB)\Editor\BoardEditor\obj\Debug\BoardEditor.pdb
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\bin\Debug\BoardEditor.exe.config
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\obj\Debug\BoardEditor.exe
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\obj\Debug\BoardEditor.pdb
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\bin\Debug\BoardEditor.exe
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\bin\Debug\BoardEditor.pdb
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\bin\Debug\BoardControls.dll
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\bin\Debug\ColorFont.dll
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\bin\Debug\BoardControls.pdb
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\obj\Debug\BoardEditor.csprojResolveAssemblyReference.cache
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\obj\Debug\SettingWindow.baml
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\obj\Debug\Editor.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\obj\Debug\SettingWindow.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\obj\Debug\App.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\obj\Debug\BoardEditor_Content.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\obj\Debug\BoardEditor_MarkupCompile.cache
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\obj\Debug\BoardEditor_MarkupCompile.lref
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\obj\Debug\Editor.baml
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\obj\Debug\BoardEditor.g.resources
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\obj\Debug\BoardEditor.Properties.Resources.resources
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\obj\Debug\BoardEditor.csproj.GenerateResource.Cache
+D:\My itStep\_NET\_Board(TB)\Editor\BoardEditor\obj\Debug\BoardEditor.csprojResolveAssemblyReference.cache
+d:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardEditor\bin\Debug\BoardEditor.exe.config
+d:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardEditor\obj\Debug\BoardEditor.exe
+d:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardEditor\obj\Debug\BoardEditor.pdb
+d:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardEditor\bin\Debug\BoardEditor.exe
+d:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardEditor\bin\Debug\BoardEditor.pdb
+d:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardEditor\bin\Debug\BoardControls.dll
+d:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardEditor\bin\Debug\ColorFont.dll
+d:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardEditor\bin\Debug\Xceed.Wpf.Toolkit.dll
+d:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardEditor\bin\Debug\BoardControls.pdb
+d:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardEditor\obj\Debug\BoardEditor.csprojResolveAssemblyReference.cache
+d:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardEditor\obj\Debug\SettingWindow.baml
+d:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardEditor\obj\Debug\Editor.g.cs
+d:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardEditor\obj\Debug\SettingWindow.g.cs
+d:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardEditor\obj\Debug\App.g.cs
+d:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardEditor\obj\Debug\BoardEditor_Content.g.cs
+d:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardEditor\obj\Debug\BoardEditor_MarkupCompile.cache
+d:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardEditor\obj\Debug\BoardEditor_MarkupCompile.lref
+d:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardEditor\obj\Debug\Editor.baml
+d:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardEditor\obj\Debug\BoardEditor.g.resources
+d:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardEditor\obj\Debug\BoardEditor.Properties.Resources.resources
+d:\My itStep\_NET\Kursovaya.NET\_Board(TB)\Editor\BoardEditor\obj\Debug\BoardEditor.csproj.GenerateResource.Cache

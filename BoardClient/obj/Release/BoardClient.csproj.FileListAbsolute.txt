@@ -1,0 +1,54 @@
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardClient\bin\Release\BoardClient.exe.config
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardClient\bin\Release\BoardClient.exe
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardClient\bin\Release\BoardClient.pdb
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardClient\bin\Release\BoardControls.dll
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardClient\bin\Release\BoardControls.pdb
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardClient\obj\Release\Client.baml
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardClient\obj\Release\SettingWindow.baml
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardClient\obj\Release\Client.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardClient\obj\Release\SettingWindow.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardClient\obj\Release\App.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardClient\obj\Release\BoardClient_MarkupCompile.cache
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardClient\obj\Release\BoardClient.g.resources
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardClient\obj\Release\BoardClient.Properties.Resources.resources
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardClient\obj\Release\BoardClient.csproj.GenerateResource.Cache
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardClient\obj\Release\BoardClient.exe
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardClient\obj\Release\BoardClient.pdb
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardClient\bin\Release\BoardClient.exe.config
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardClient\bin\Release\BoardClient.exe
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardClient\bin\Release\BoardClient.pdb
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardClient\bin\Release\BoardControls.dll
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardClient\bin\Release\WindowResizer.dll
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardClient\bin\Release\BoardControls.pdb
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardClient\obj\Release\BoardClient.csprojResolveAssemblyReference.cache
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardClient\obj\Release\Client.baml
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardClient\obj\Release\SettingWindow.baml
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardClient\obj\Release\Client.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardClient\obj\Release\SettingWindow.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardClient\obj\Release\App.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardClient\obj\Release\BoardClient_Content.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardClient\obj\Release\BoardClient_MarkupCompile.cache
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardClient\obj\Release\BoardClient.g.resources
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardClient\obj\Release\BoardClient.Properties.Resources.resources
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardClient\obj\Release\BoardClient.csproj.GenerateResource.Cache
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardClient\obj\Release\BoardClient.exe
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardClient\obj\Release\BoardClient.pdb
+D:\My Documents\Profile\Projects\__Work\VirtualBoard\BoardClient\bin\Release\BoardClient.exe.config
+D:\My Documents\Profile\Projects\__Work\VirtualBoard\BoardClient\bin\Release\BoardClient.exe
+D:\My Documents\Profile\Projects\__Work\VirtualBoard\BoardClient\bin\Release\BoardClient.pdb
+D:\My Documents\Profile\Projects\__Work\VirtualBoard\BoardClient\bin\Release\WindowResizer.dll
+D:\My Documents\Profile\Projects\__Work\VirtualBoard\BoardClient\bin\Release\Xceed.Wpf.Toolkit.dll
+D:\My Documents\Profile\Projects\__Work\VirtualBoard\BoardClient\bin\Release\BoardControls.pdb
+D:\My Documents\Profile\Projects\__Work\VirtualBoard\BoardClient\obj\Release\BoardClient.csprojResolveAssemblyReference.cache
+D:\My Documents\Profile\Projects\__Work\VirtualBoard\BoardClient\obj\Release\Client.baml
+D:\My Documents\Profile\Projects\__Work\VirtualBoard\BoardClient\obj\Release\SettingWindow.baml
+D:\My Documents\Profile\Projects\__Work\VirtualBoard\BoardClient\obj\Release\Client.g.cs
+D:\My Documents\Profile\Projects\__Work\VirtualBoard\BoardClient\obj\Release\SettingWindow.g.cs
+D:\My Documents\Profile\Projects\__Work\VirtualBoard\BoardClient\obj\Release\App.g.cs
+D:\My Documents\Profile\Projects\__Work\VirtualBoard\BoardClient\obj\Release\BoardClient_Content.g.cs
+D:\My Documents\Profile\Projects\__Work\VirtualBoard\BoardClient\obj\Release\BoardClient_MarkupCompile.cache
+D:\My Documents\Profile\Projects\__Work\VirtualBoard\BoardClient\obj\Release\BoardClient.g.resources
+D:\My Documents\Profile\Projects\__Work\VirtualBoard\BoardClient\obj\Release\BoardClient.Properties.Resources.resources
+D:\My Documents\Profile\Projects\__Work\VirtualBoard\BoardClient\obj\Release\BoardClient.csproj.GenerateResource.Cache
+D:\My Documents\Profile\Projects\__Work\VirtualBoard\BoardClient\obj\Release\BoardClient.exe
+D:\My Documents\Profile\Projects\__Work\VirtualBoard\BoardClient\obj\Release\BoardClient.pdb

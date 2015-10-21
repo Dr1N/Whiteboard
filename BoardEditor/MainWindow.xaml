@@ -1,0 +1,220 @@
+﻿<Window xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+        xmlns:System="clr-namespace:System;assembly=mscorlib" 
+        xmlns:local="clr-namespace:BoardEditor"
+        x:Class="BoardEditor.MainWindow"
+        Title="Board" Height="550" Width="850" 
+        ResizeMode="CanMinimize">
+    
+    <DockPanel LastChildFill="True">
+        <Menu DockPanel.Dock ="Top" Height="25">
+            <MenuItem Header="_Файл">
+                <MenuItem Header="Тест" Name="mnTest" Click="mnTest_Click"/>
+                <MenuItem Header="Настройки..." Name="mnSetting" Click="mnSetting_Click"/>
+                <Separator/>
+                <MenuItem Name="mnExit" Header="Выход" Click="mnExit_Click"/>
+            </MenuItem>
+            <MenuItem Header="_Дополнительно">
+                <MenuItem Header="Правая панель" Name="mnPanel" 
+                          IsCheckable="True" Click="mnPanel_Click"
+                          ToolTip="Показать список фигур и досок"/>
+            </MenuItem>
+        </Menu>
+        <StatusBar DockPanel.Dock="Bottom" Height="25">
+            <Grid Width="{Binding Path=ActualWidth, RelativeSource={RelativeSource AncestorType={x:Type StatusBar}}}" UseLayoutRounding="False" >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="150"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Name="sbCoord">Координаты</TextBlock>
+                <TextBlock Grid.Column="1" Name="sbTool">Инструмент: Ввод текста</TextBlock>
+            </Grid>
+        </StatusBar>
+        <ToolBarTray DockPanel.Dock="Top" Name="tbtTop" Height="30">
+            <ToolBar Name="tbShapeSetting" Height="30" IsEnabled="False">
+                <TextBlock VerticalAlignment="Center" Margin="0 0 10 0" FontWeight="Bold">Цвет:</TextBlock>
+                <local:BrushComboBox x:Name="cbStrokeColor" Width="40" IsEmptyColor="False" SelectedIndex="7"
+                                     ColorChanged="cbStrokeColor_ColorChanged"
+                                     GotFocus="cbSetting_GotFocus"/>
+                <TextBlock VerticalAlignment="Center" Margin="10 0 10 0" FontWeight="Bold">Заливка:</TextBlock>
+                <local:BrushComboBox x:Name="cbFillColor" Width="40" IsEmptyColor="True"
+                                     ColorChanged="cbFillColor_ColorChanged"
+                                     GotFocus="cbSetting_GotFocus"/>
+                <TextBlock VerticalAlignment="Center" Margin="10 0 10 0" FontWeight="Bold">Толщина:</TextBlock>
+                <local:ThicknessComboBox x:Name="cbThickness" Width="60"
+                                         SelectionChanged="cbThickness_SelectionChanged"/>
+                <TextBlock VerticalAlignment="Center" Margin="10 0 10 0" FontWeight="Bold">Тип:</TextBlock>
+                <local:DashComboBox x:Name="cbDash" Width="100"
+                                    SelectionChanged="cbDash_SelectionChanged"/>
+            </ToolBar>
+            <ToolBar Name="tbFontSetting" Height="30" IsEnabled="False">
+                <TextBlock VerticalAlignment="Center" Margin="10 0 10 0" FontWeight="Bold">Шрифт:</TextBlock>
+                <local:FontComboBox x:Name="cbFontFamaly" Width="120"
+                                    SelectionChanged="cbFont_SelectionChanged"
+                                    GotFocus="cbSetting_GotFocus"/>
+                <TextBlock VerticalAlignment="Center" Margin="10 0 10 0" FontWeight="Bold">Размер:</TextBlock>
+                <ComboBox Name="cbFontSize" Width="40" SelectedIndex="0"
+                          SelectionChanged="cbFont_SelectionChanged"
+                          GotFocus="cbSetting_GotFocus">
+                    <ComboBoxItem>12</ComboBoxItem>
+                    <ComboBoxItem>14</ComboBoxItem>
+                    <ComboBoxItem>16</ComboBoxItem>
+                    <ComboBoxItem>18</ComboBoxItem>
+                    <ComboBoxItem>20</ComboBoxItem>
+                    <ComboBoxItem>22</ComboBoxItem>
+                    <ComboBoxItem>24</ComboBoxItem>
+                    <ComboBoxItem>26</ComboBoxItem>
+                    <ComboBoxItem>28</ComboBoxItem>
+                    <ComboBoxItem>30</ComboBoxItem>
+                    <ComboBoxItem>32</ComboBoxItem>
+                    <ComboBoxItem>34</ComboBoxItem>
+                    <ComboBoxItem>36</ComboBoxItem>
+                    <ComboBoxItem>38</ComboBoxItem>
+                    <ComboBoxItem>40</ComboBoxItem>
+                    <ComboBoxItem>42</ComboBoxItem>
+                    <ComboBoxItem>44</ComboBoxItem>
+                    <ComboBoxItem>46</ComboBoxItem>
+                    <ComboBoxItem>48</ComboBoxItem>
+                    <ComboBoxItem>50</ComboBoxItem>
+                    <ComboBoxItem>52</ComboBoxItem>
+                    <ComboBoxItem>54</ComboBoxItem>
+                    <ComboBoxItem>56</ComboBoxItem>
+                    <ComboBoxItem>58</ComboBoxItem>
+                    <ComboBoxItem>60</ComboBoxItem>
+                    <ComboBoxItem>62</ComboBoxItem>
+                    <ComboBoxItem>64</ComboBoxItem>
+                    <ComboBoxItem>66</ComboBoxItem>
+                    <ComboBoxItem>68</ComboBoxItem>
+                    <ComboBoxItem>70</ComboBoxItem>
+                    <ComboBoxItem>72</ComboBoxItem>
+                </ComboBox>
+            </ToolBar>
+        </ToolBarTray>
+        <Grid DockPanel.Dock="Right" Name="spRight" Width="150" 
+              Visibility="Collapsed">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="20"/>
+                <RowDefinition/>
+                <RowDefinition Height="20"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            
+            <TextBlock Grid.Row="0" Text="Список фигур"
+                HorizontalAlignment="Center" FontWeight="Bold"/>
+            <ListBox Grid.Row="1" Name="lbShapes" SelectionMode="Extended"
+                     SelectionChanged="lbShapes_SelectionChanged"
+                     KeyDown="lbShapes_KeyDown"
+                     GotFocus="lbShapes_GotFocus"/>
+            <TextBlock Grid.Row="2" Text="Доски"
+                       HorizontalAlignment="Center" FontWeight="Bold"/>
+            <ListBox Grid.Row="3" Name="lbBoards"/>
+        </Grid>
+        <ToolBarTray DockPanel.Dock="Left" Name="tbtLeft" Width ="70" Orientation="Vertical">
+            <ToolBar Name="tbInput" Width="35">
+                <RadioButton GroupName="InputModes" Name="rbType"
+                             ToolTip="Печать текста"
+                             IsChecked="True" 
+                             Tag="{x:Static Member=InkCanvasEditingMode.None}" 
+                             Checked="RadioButton_Checked">
+                    <Image Source="images/Type.png" Margin="1"/>
+                </RadioButton>
+                <RadioButton GroupName="InputModes" Name="rbInk"
+                             ToolTip="Рукописные заметки"
+                             Tag="{x:Static Member=InkCanvasEditingMode.Ink}" 
+                             Checked="RadioButton_Checked">
+                    <Image Source="images/Note.png" Margin="1"/>
+                </RadioButton>
+                <Separator Margin="0 10 0 10"/>
+                <RadioButton GroupName="InputModes" Name="rbPen" 
+                             ToolTip="Фигуры: Полилиния(карандаш)"
+                             Tag ="{x:Static local:BOADR_DRAW_SHAPE.POLYLINE}"
+                             Checked="RadioButton_Checked">
+                    <Image Source="images/Pencil.png" Margin="1"/>
+                </RadioButton>
+                <RadioButton GroupName="InputModes" Name="rbLine"
+                             ToolTip="Фигуры: Прямая"
+                             Tag ="{x:Static local:BOADR_DRAW_SHAPE.LINE}"
+                             Checked="RadioButton_Checked">
+                    <Image Source="images/Line.png" Margin="1"/>
+                </RadioButton>
+                <RadioButton GroupName="InputModes" Name="rbRect" 
+                             ToolTip="Фигуры: Прямоугольник"
+                             Tag ="{x:Static local:BOADR_DRAW_SHAPE.RECTANGLE}"
+                             Checked="RadioButton_Checked">
+                    <Image Source="images/Rectangle.png" Margin="1"/>
+                </RadioButton>
+                <RadioButton GroupName="InputModes" Name="rbRoundRect"
+                             ToolTip="Фигуры: Закруглённый прямоугольник"
+                             Tag ="{x:Static local:BOADR_DRAW_SHAPE.ROUND_RECTANGLE}"
+                             Checked="RadioButton_Checked">
+                    <Image Source="images/Rounded.png" Margin="1"/>
+                </RadioButton>
+                <RadioButton GroupName="InputModes" Name="rbEllipse"
+                             ToolTip="Фигуры: Элипс"
+                             Tag ="{x:Static local:BOADR_DRAW_SHAPE.ELLIPSE}"
+                             Checked="RadioButton_Checked">
+                    <Image Source="images/Ellipse.png" Margin="1"/>
+                </RadioButton>
+                <RadioButton GroupName="InputModes" Name="rbLabel"
+                             ToolTip="Фигуры: Надпись"
+                             Tag ="{x:Static local:BOADR_DRAW_SHAPE.LABEL}"
+                             Checked="RadioButton_Checked">
+                    <Image Source="images/Label2.png" Margin="1"/>
+                </RadioButton>
+            </ToolBar>
+            <ToolBar Name="tbEdit" Width="35" Band="1">
+                <RadioButton GroupName="InputModes" Name="rbSelect"
+                             ToolTip="Редактирование: Выделение заметок и фигур для редактирования/удаления"
+                             Tag="{x:Static Member=InkCanvasEditingMode.Select}" 
+                             Checked="RadioButton_Checked">
+                    <Image Source="images/Select.png" Margin="1"/>
+                </RadioButton>
+                <RadioButton GroupName="InputModes" Name="rbErase"
+                             ToolTip="Редактирование: Ластик для заметок (для удаления фигуры выделете фигуру и нажите DEL)"
+                             Tag="{x:Static Member=InkCanvasEditingMode.EraseByPoint}" 
+                             Checked="RadioButton_Checked">
+                    <Image Source="images/Erase.png" Margin="1"/>
+                </RadioButton>
+                <RadioButton GroupName="InputModes" Name="rbRemove"
+                             ToolTip="Редактирование: Удаление заметок (для удаления фигуры выделете фигуру и нажите DEL)"
+                             Tag="{x:Static Member=InkCanvasEditingMode.EraseByStroke}" 
+                             Checked="RadioButton_Checked">
+                    <Image Source="images/Remove.png" Margin="1"/>
+                </RadioButton>
+                <Separator Margin="0 10 0 10"/>
+                <Button Name="btDeleteText" ToolTip="Удалить весь текст" Click="btDelete_Click">
+                    <Image Source="images/DeleteText.png"/>
+                </Button>
+                <Button Name="btDeleteNotes" ToolTip="Удалить все заметки" Click="btDelete_Click">
+                    <Image Source="images/DeleteNotes.png"/>
+                </Button>
+                <Button Name="btDeleteShapes" ToolTip="Удалить все графические объекты" Click="btDelete_Click">
+                    <Image Source="images/DeleteShape.png"/>
+                </Button>
+                <Button Name="btDeleteAll" ToolTip="Очистить доску" Click="btDelete_Click">
+                    <Image Source="images/DeleteAll.png"/>
+                </Button>
+            </ToolBar>
+        </ToolBarTray>
+        <InkCanvas x:Name="inkBoard" EditingMode="None" ClipToBounds="True"
+                   MouseDown="inkBoard_MouseDown" 
+                   MouseMove="inkBoard_MouseMove" 
+                   MouseUp="inkBoard_MouseUp"
+                   MouseEnter="inkBoard_MouseEnter"
+                   MouseLeave="inkBoard_MouseLeave"
+                   SelectionChanged="inkBoard_SelectionChanged"
+                   PreviewKeyUp="inkBoard_PreviewKeyUp">
+            <InkCanvas.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </InkCanvas.Background>
+            <local:BoardTextBox x:Name="tbBoard"
+                                FontFamily="Courier New" 
+                                FontSize="24"
+                                FontWeight="Bold" 
+                                Width="{Binding Path=ActualWidth, RelativeSource={RelativeSource AncestorType={x:Type InkCanvas}}}" 
+                                Height="{Binding Path=ActualHeight, RelativeSource={RelativeSource AncestorType={x:Type InkCanvas}}}" 
+                                GotFocus="tbBoard_GotFocus"/>
+        </InkCanvas>
+    </DockPanel>
+    
+</Window>

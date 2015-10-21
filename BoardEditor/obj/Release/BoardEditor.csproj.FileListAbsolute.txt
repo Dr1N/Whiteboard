@@ -1,0 +1,62 @@
+D:\My itStep\_NET\_Board\Editor\BoardEditor\bin\Release\BoardEditor.exe.config
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardEditor\bin\Release\BoardEditor.exe.config
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardEditor\bin\Release\BoardEditor.exe
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardEditor\bin\Release\BoardEditor.pdb
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardEditor\bin\Release\BoardControls.dll
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardEditor\bin\Release\ColorFont.dll
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardEditor\bin\Release\Xceed.Wpf.Toolkit.dll
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardEditor\bin\Release\BoardControls.pdb
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardEditor\obj\Release\BoardEditor.csprojResolveAssemblyReference.cache
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardEditor\obj\Release\Editor.baml
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardEditor\obj\Release\SettingWindow.baml
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardEditor\obj\Release\Editor.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardEditor\obj\Release\SettingWindow.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardEditor\obj\Release\App.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardEditor\obj\Release\BoardEditor_Content.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardEditor\obj\Release\BoardEditor_MarkupCompile.cache
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardEditor\obj\Release\BoardEditor.g.resources
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardEditor\obj\Release\BoardEditor.Properties.Resources.resources
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardEditor\obj\Release\BoardEditor.csproj.GenerateResource.Cache
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardEditor\obj\Release\BoardEditor.exe
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board\Editor\BoardEditor\obj\Release\BoardEditor.pdb
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\bin\Release\BoardEditor.exe.config
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\obj\Release\BoardEditor.exe
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\obj\Release\BoardEditor.pdb
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\bin\Release\BoardEditor.exe
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\bin\Release\BoardEditor.pdb
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\bin\Release\BoardControls.dll
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\bin\Release\ColorFont.dll
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\bin\Release\Xceed.Wpf.Toolkit.dll
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\bin\Release\BoardControls.pdb
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\obj\Release\SettingWindow.baml
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\obj\Release\Editor.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\obj\Release\SettingWindow.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\obj\Release\App.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\obj\Release\BoardEditor_Content.g.cs
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\obj\Release\BoardEditor_MarkupCompile.cache
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\obj\Release\BoardEditor_MarkupCompile.lref
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\obj\Release\Editor.baml
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\obj\Release\BoardEditor.g.resources
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\obj\Release\BoardEditor.Properties.Resources.resources
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\obj\Release\BoardEditor.csproj.GenerateResource.Cache
+C:\Users\06621\Documents\Visual Studio 2012\Projects\_Board(TB)\Editor\BoardEditor\obj\Release\BoardEditor.csprojResolveAssemblyReference.cache
+D:\My Documents\Profile\Projects\__Work\VirtualBoard\BoardEditor\bin\Release\BoardEditor.exe.config
+D:\My Documents\Profile\Projects\__Work\VirtualBoard\BoardEditor\bin\Release\BoardEditor.exe
+D:\My Documents\Profile\Projects\__Work\VirtualBoard\BoardEditor\bin\Release\BoardEditor.pdb
+D:\My Documents\Profile\Projects\__Work\VirtualBoard\BoardEditor\bin\Release\ColorFont.dll
+D:\My Documents\Profile\Projects\__Work\VirtualBoard\BoardEditor\bin\Release\Xceed.Wpf.Toolkit.dll
+D:\My Documents\Profile\Projects\__Work\VirtualBoard\BoardEditor\bin\Release\BoardControls.pdb
+D:\My Documents\Profile\Projects\__Work\VirtualBoard\BoardEditor\obj\Release\BoardEditor.csprojResolveAssemblyReference.cache
+D:\My Documents\Profile\Projects\__Work\VirtualBoard\BoardEditor\obj\Release\SettingWindow.baml
+D:\My Documents\Profile\Projects\__Work\VirtualBoard\BoardEditor\obj\Release\Editor.g.cs
+D:\My Documents\Profile\Projects\__Work\VirtualBoard\BoardEditor\obj\Release\SettingWindow.g.cs
+D:\My Documents\Profile\Projects\__Work\VirtualBoard\BoardEditor\obj\Release\App.g.cs
+D:\My Documents\Profile\Projects\__Work\VirtualBoard\BoardEditor\obj\Release\BoardEditor_Content.g.cs
+D:\My Documents\Profile\Projects\__Work\VirtualBoard\BoardEditor\obj\Release\BoardEditor_MarkupCompile.cache
+D:\My Documents\Profile\Projects\__Work\VirtualBoard\BoardEditor\obj\Release\BoardEditor_MarkupCompile.lref
+D:\My Documents\Profile\Projects\__Work\VirtualBoard\BoardEditor\obj\Release\Editor.baml
+D:\My Documents\Profile\Projects\__Work\VirtualBoard\BoardEditor\obj\Release\BoardEditor.g.resources
+D:\My Documents\Profile\Projects\__Work\VirtualBoard\BoardEditor\obj\Release\BoardEditor.Properties.Resources.resources
+D:\My Documents\Profile\Projects\__Work\VirtualBoard\BoardEditor\obj\Release\BoardEditor.csproj.GenerateResource.Cache
+D:\My Documents\Profile\Projects\__Work\VirtualBoard\BoardEditor\obj\Release\BoardEditor.exe
+D:\My Documents\Profile\Projects\__Work\VirtualBoard\BoardEditor\obj\Release\BoardEditor.pdb
